@@ -44,7 +44,7 @@ Awal membuka aplikasi langsung menampilkan halaman data mahasiswa. Di dalamnya t
 <img src="https://github.com/user-attachments/assets/34cb0955-7118-4f6b-a8f8-b7329d7c520c" width="400">
 <img src="https://github.com/user-attachments/assets/d76deb4a-d216-4c5e-bd9f-ef072d6d9d0a" width="400"> </br>
 Jika button tambah mahasiwa pada halaman data mahasiswa di klil, maka akan menampilkan halaman form tambah mahasiswa. Form ini berisi nama dan jurusan yang dapat diisi. Terdapat juga button batal yang jika di klik akan mengembalikan halaman ke halaman data mahasiswa. Button tambah mahasiswa pada halaman ini akan menyimpan hasil input form ke dalam database. Tampilan form tambah mahasiswa didapat dari kode berikut
-``` html
+``` bash
 <ion-modal [isOpen]="modalTambah">
     <ng-template>
       <ion-header>
