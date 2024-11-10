@@ -128,7 +128,7 @@ Ketika button tambah mahasiswa pada halaman form tambah mahasiswa di klik, maka 
 
 ## Edit Mahasiswa
 ### a. Form Edit Mahasiswa </br>
-<img src="https://github.com/user-attachments/assets/84104917-2f96-4fe0-bb4b-88398d3dde16" width="400">
+<img src="https://github.com/user-attachments/assets/fb46a644-4683-475d-b5c0-1fffd3470789" width="400">
 <img src="https://github.com/user-attachments/assets/42a71ea6-7ec9-4902-9a9d-e6fd7fbaa957" width="400"> </br>
 Ketika button edit pada halaman data mahasiswa di klik, maka akan menampilkan halaman form edit mahasiswa. Halaman ini berisi form yang telah terisi dan button edit mahasiswa. Tampilan ini didapatkan dari kode berikut
 
